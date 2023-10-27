@@ -1,0 +1,19 @@
+[
+    {
+        "RunType": "0",
+        "Exit": "esc+0",
+        "Toggle": "1+esc",
+        "Start": "2+esc",
+        "Stop": "3+esc"
+    },
+    {
+        "shift+Q": "hello world 2",
+        "shift+F": "smaller string",
+        "shift+V": "noice boi"
+    },
+    {
+        "f3": "volume neutral",
+        "f7": "Brightness_Up",
+        "f8": "Brightness_Down"
+    }
+]
